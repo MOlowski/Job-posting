@@ -1,4 +1,4 @@
 # .gitignore
 __pychache__
 venv/
-Linkedin_job_posting/LinkedinJobsDF.csv
+LinkedinJobsDF.csv
